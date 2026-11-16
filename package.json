@@ -1,0 +1,1 @@
+{"description":"make.fun bounty ai-excited-01 entry: a steam locomotive bursting out of its own travel poster.","license":"MIT","name":"makefun-ai-excited","private":true,"scripts":{"start":"node main.ts","test":"node test/run-check.mjs"},"type":"module","version":"1.0.0"}
